@@ -4,7 +4,7 @@
 - 🎓  A student at Gunadarma University  
 - 👨🏻‍💻 Currently learning Android development (Flutter & Kotlin)  
 - 🎺 A jazz music enthusiast
-- (https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg) Indonesian
+- [](https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg) Indonesian
 
 ## What i am learning 
 - 📱 Android Development using Flutter and Kotlin   
