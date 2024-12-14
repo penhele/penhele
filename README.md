@@ -3,12 +3,13 @@
 ## About me
 - 🎓  A student at Gunadarma University  
 - 👨🏻‍💻 Currently learning Android development (Flutter & Kotlin)  
-- 🎺 Indonesian
+- 🎺 A jazz music enthusiast
+- 
 
 ## What i am learning 
-- Android Development using Flutter and Kotlin   
-- Backend using Golang  
-- Improving my English language skills
+- 📱 Android Development using Flutter and Kotlin   
+- 🛜  Backend using Golang  
+-  Improving my English language skills
 
 ## My social media
 - [Instagram](https://www.instagram.com/stephenhelenus/) : @stephenhelenus
