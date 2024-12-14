@@ -11,5 +11,6 @@
 - Improving my English language skills
 
 ## My social media
-- [Instagram](https://www.instagram.com/stephenhelenus/)
-- [Github](https://github.com/penhele)
+- [Instagram](https://www.instagram.com/stephenhelenus/) : @stephenhelenus
+- [Github](https://github.com/penhele) : @penhele
+- [Linkedin](https://www.linkedin.com/in/stephenhelenus/) : @stephenhelenus
