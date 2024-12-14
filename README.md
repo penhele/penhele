@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello there👋
+# My name is Stephen Helenus 
 
 <!--
 **penhele/penhele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
