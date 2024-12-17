@@ -8,7 +8,7 @@
 
 ## What i am learning 
 - 📱 Android Development using Flutter and Kotlin   
-- 🛜 Backend using Golang  
+- 🛜 Backend using Golang and PHP (Laravel)
 - Improving my English language skills
 
 ## My social media
