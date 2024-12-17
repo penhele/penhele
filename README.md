@@ -1,4 +1,4 @@
-# Hello there👋 <br> My name is Stephen
+# Hello there👋 <br> My name is Stephen Helenus
 
 ## About me
 - 🎓 A student at Gunadarma University  
